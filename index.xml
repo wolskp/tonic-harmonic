@@ -2,11 +2,11 @@
 <level>
   <owner>wolskp</owner>
   <repo>tonic-harmonic</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <readme>
-    <pl>11e60354f486789b54c63afeb17d1f938c7a2a54fe62e9f8b421295c94e7a44f</pl>
     <ru>40cfbccf13a27bb199655b8cb38d650c7b3c901d132a8a3ea0cc6cebd9aacab8</ru>
     <en>92f366d1b07061c719ae7a7630439b13f57c1c27a8330d458d7f2bc25afd7bae</en>
+    <pl>11e60354f486789b54c63afeb17d1f938c7a2a54fe62e9f8b421295c94e7a44f</pl>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -27,8 +27,8 @@
     <tonalities>3</tonalities>
     <video name="CelineD5.mp4" size="2909229" type="video/mp4">280cd01c940b6ca16a2f18c25c7e5154751ebee475995878faa34c3e9f6dabed</video>
     <notes>
-      <note number="1" values="1" ticks="96" durationTicks="102" ppq="192" velocity="0.803"/>
-      <note number="2" values="18" ticks="219" durationTicks="160" ppq="192" velocity="0.803"/>
+      <note number="1" values="1" ticks="159" durationTicks="135" ppq="192" velocity="0.803"/>
+      <note number="2" values="18" ticks="281" durationTicks="104" ppq="192" velocity="0.803"/>
     </notes>
   </exercise>
   <exercise number="3">
